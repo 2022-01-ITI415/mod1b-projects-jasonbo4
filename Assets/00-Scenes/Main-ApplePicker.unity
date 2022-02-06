@@ -386,7 +386,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 792234105}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d6180cdd9f1f64445b784b4fe8404583, type: 3}
+  m_Script: {fileID: 11500000, guid: b4505115ff78d466192f010e739efe2e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   basketPrefab: {fileID: 919344883106193892, guid: 39e50cf6ff2d44c479aed2ec3b534210, type: 3}
@@ -833,8 +833,16 @@ PrefabInstance:
       value: AppleTree
       objectReference: {fileID: 0}
     - target: {fileID: 6931607336443210523, guid: ad135a3cdb1ee493b83d28fb4a8c5d64, type: 3}
+      propertyPath: speed
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 6931607336443210523, guid: ad135a3cdb1ee493b83d28fb4a8c5d64, type: 3}
       propertyPath: applePrefab
       value: 
       objectReference: {fileID: 8295389488553080196, guid: 7d89c2bd13ba04e34b3f4dc2956b2890, type: 3}
+    - target: {fileID: 6931607336443210523, guid: ad135a3cdb1ee493b83d28fb4a8c5d64, type: 3}
+      propertyPath: chanceToChangeDirections
+      value: 0.015
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ad135a3cdb1ee493b83d28fb4a8c5d64, type: 3}
