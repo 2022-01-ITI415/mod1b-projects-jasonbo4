@@ -1,10 +1,9 @@
 fileFormatVersion: 2
-guid: fc159364c730b4c4ab52034e1d2ea6dc
+guid: 7f2d76359f29d47f9bd12f5df4a83e0d
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences:
-  - cloudPrefab: {fileID: 3872785398630743345, guid: e366d2fc9641d4e22b06dcf9d2252a1a, type: 3}
+  defaultReferences: []
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
